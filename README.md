@@ -5,8 +5,9 @@ Nodejs Express API written in node 12 + Dockerfile and deployment.yaml
 
 ## Installation & Usage
 
-npm install
-npm start
-npm test
+npm install <br />
+npm test <br />
+npm start <br />
+
 
 To test endpoint call: POST http://localhost:3000/api/tree 
